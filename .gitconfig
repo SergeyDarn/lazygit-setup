@@ -1,0 +1,8 @@
+# Путь к гитконфигу на маке: ~/.gitconfig 
+[include]
+    path = /Users/sergeydarn/themes.config
+[delta]
+    features = arctic-fox 
+    side-by-side = false
+[core]
+	pager = delta
