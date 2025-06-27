@@ -2,6 +2,8 @@
 # на маке: ~/Library/Application\ Support/lazygit/config.yml
 # на винде: %LOCALAPPDATA%\lazygit\config.yml (стандартное местоположение, но также можно найти в %APPDATA%\lazygit\config.yml)
 # на линуксе: ~/.config/lazygit/config.yml
+#
+# Оф. док со всей информацией о конфиге: https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md
 gui:
   theme:
     activeBorderColor:
